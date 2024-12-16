@@ -1,0 +1,54 @@
+body{
+    background-color: rgba(189,189,189,0.22) !important;
+}
+body[data-sidebar=dark] .navbar-brand-box {
+    background: #A2834D !important;
+    color: black !important;
+}
+#page-topbar{
+    background: #D9B372 !important;
+}
+#page-topbar .navbar-header .navbar-brand-box{
+    background: #D9B372 !important;
+}
+body[data-sidebar=dark] .vertical-menu {
+    background: #A2834D !important;
+    color: #D9B372 !important;
+}
+.mm-active .active {
+    background: #D9B372 !important;
+    border-bottom: 4px solid #8d8c8d !important;
+}
+.mm-active .active span {
+    color: white !important;
+}
+body[data-sidebar=dark] #sidebar-menu ul li a {
+    color: black !important;
+}
+.btn-primary {
+    background: #8d8c8d !important;
+    border-bottom: 4px solid #D9B372 !important;
+}
+.avatar-title {
+    background: #D9B372 !important;
+}
+.checkout-tabs .nav-pills .nav-link.active {
+    background: #D9B372 !important;
+}
+.text-muted {
+    color: black !important;
+}
+.menu-title{
+    color:white !important;
+}
+body[data-sidebar=dark] #sidebar-menu ul li a{
+    color:white !important;
+}
+body[data-sidebar=dark] #sidebar-menu ul li a i{
+    color:white !important;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #D9B372 !important;
+}
